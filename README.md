@@ -9,5 +9,5 @@ Linux 환경에서 Visual Studio Code로 진행합니다.
 
 ![image](https://user-images.githubusercontent.com/84756721/167347352-0fd72a3b-47a9-48c0-ba48-4c70ab8c63a9.png)
 ![image](https://user-images.githubusercontent.com/84756721/167347448-c9a5e7ee-8aed-4f4e-96c4-9fe542257268.png)
-![image](https://user-images.githubusercontent.com/84756721/167347614-c6c06269-328e-45c8-9299-df19d9e6f4c9.png)
-![image](https://user-images.githubusercontent.com/84756721/167347651-4804fc18-7e59-4a6d-b7b6-330ae42288f4.png)
+![image](https://user-images.githubusercontent.com/84756721/167347837-bb94f947-8e8f-4bc1-88db-ce6b093b0db8.png)
+![image](https://user-images.githubusercontent.com/84756721/167349963-22018b6e-c47b-41e7-adc3-67e04a7aeaa2.png)
