@@ -1,0 +1,16 @@
+/home/piai/hustar/minhub7/hustar_cs/Lab/Lab02_FunctionDefine/bin/Debug/net5.0/Lab02_FunctionDefine
+/home/piai/hustar/minhub7/hustar_cs/Lab/Lab02_FunctionDefine/bin/Debug/net5.0/Lab02_FunctionDefine.deps.json
+/home/piai/hustar/minhub7/hustar_cs/Lab/Lab02_FunctionDefine/bin/Debug/net5.0/Lab02_FunctionDefine.runtimeconfig.json
+/home/piai/hustar/minhub7/hustar_cs/Lab/Lab02_FunctionDefine/bin/Debug/net5.0/Lab02_FunctionDefine.runtimeconfig.dev.json
+/home/piai/hustar/minhub7/hustar_cs/Lab/Lab02_FunctionDefine/bin/Debug/net5.0/Lab02_FunctionDefine.dll
+/home/piai/hustar/minhub7/hustar_cs/Lab/Lab02_FunctionDefine/bin/Debug/net5.0/ref/Lab02_FunctionDefine.dll
+/home/piai/hustar/minhub7/hustar_cs/Lab/Lab02_FunctionDefine/bin/Debug/net5.0/Lab02_FunctionDefine.pdb
+/home/piai/hustar/minhub7/hustar_cs/Lab/Lab02_FunctionDefine/obj/Debug/net5.0/Lab02_FunctionDefine.csproj.AssemblyReference.cache
+/home/piai/hustar/minhub7/hustar_cs/Lab/Lab02_FunctionDefine/obj/Debug/net5.0/Lab02_FunctionDefine.GeneratedMSBuildEditorConfig.editorconfig
+/home/piai/hustar/minhub7/hustar_cs/Lab/Lab02_FunctionDefine/obj/Debug/net5.0/Lab02_FunctionDefine.AssemblyInfoInputs.cache
+/home/piai/hustar/minhub7/hustar_cs/Lab/Lab02_FunctionDefine/obj/Debug/net5.0/Lab02_FunctionDefine.AssemblyInfo.cs
+/home/piai/hustar/minhub7/hustar_cs/Lab/Lab02_FunctionDefine/obj/Debug/net5.0/Lab02_FunctionDefine.csproj.CoreCompileInputs.cache
+/home/piai/hustar/minhub7/hustar_cs/Lab/Lab02_FunctionDefine/obj/Debug/net5.0/Lab02_FunctionDefine.dll
+/home/piai/hustar/minhub7/hustar_cs/Lab/Lab02_FunctionDefine/obj/Debug/net5.0/ref/Lab02_FunctionDefine.dll
+/home/piai/hustar/minhub7/hustar_cs/Lab/Lab02_FunctionDefine/obj/Debug/net5.0/Lab02_FunctionDefine.pdb
+/home/piai/hustar/minhub7/hustar_cs/Lab/Lab02_FunctionDefine/obj/Debug/net5.0/Lab02_FunctionDefine.genruntimeconfig.cache
