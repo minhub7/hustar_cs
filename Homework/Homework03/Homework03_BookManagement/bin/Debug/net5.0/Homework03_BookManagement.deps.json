@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Homework03_BookManagement/1.0.0": {
+        "runtime": {
+          "Homework03_BookManagement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework03_BookManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
